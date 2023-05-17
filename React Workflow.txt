@@ -4,3 +4,4 @@ npm i styled-components@latest
 npm i react-router-dom@latest
 npm i --save react-toastify
 npm i @reduxjs/toolkit react-redux
+npm i react-icons
