@@ -2,3 +2,5 @@ npm create vite@latest jobster-app -- --template react
 npm i normalize.css (then import it in main.jsx)
 npm i styled-components@latest
 npm i react-router-dom@latest
+npm i --save react-toastify
+npm i @reduxjs/toolkit react-redux
